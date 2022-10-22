@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase 8</string>
+    <string name="boton1">LinearLayout</string>
+    <string name="boton2">RelativeLayout</string>
+    <string name="boton3">ConstrainLayout</string>
+    <string name="button4">OtherLayout</string>
+</resources>
